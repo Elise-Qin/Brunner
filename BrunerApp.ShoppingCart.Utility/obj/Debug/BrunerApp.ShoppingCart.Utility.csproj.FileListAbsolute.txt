@@ -1,0 +1,5 @@
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Utility\bin\Debug\BrunerApp.ShoppingCart.Utility.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Utility\bin\Debug\BrunerApp.ShoppingCart.Utility.pdb
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Utility\obj\Debug\BrunerApp.ShoppingCart.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Utility\obj\Debug\BrunerApp.ShoppingCart.Utility.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Utility\obj\Debug\BrunerApp.ShoppingCart.Utility.pdb

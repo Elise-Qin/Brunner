@@ -1,0 +1,4 @@
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Constants\bin\Debug\BrunerApp.ShoppingCart.Constants.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Constants\bin\Debug\BrunerApp.ShoppingCart.Constants.pdb
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Constants\obj\Debug\BrunerApp.ShoppingCart.Constants.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\BrunerApp.ShoppingCart.Assignment\BrunerApp.ShoppingCart.Constants\obj\Debug\BrunerApp.ShoppingCart.Constants.pdb
